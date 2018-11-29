@@ -62,7 +62,7 @@ after(done => {
 	local.stop(done);
 });
 
-describe('wgot', () => {
+describe('js-skeleton', () => {
 	// it('should return a promise', function() {
 	// 	url = `${base}hello`;
 	// 	const p = fetch(url);
